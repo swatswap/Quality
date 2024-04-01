@@ -21,11 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>temp__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>ddddd__c</field>
+                <field>test11111__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
