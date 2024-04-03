@@ -6,17 +6,23 @@
     </categoryGroupVisibilities>
     <custom>true</custom>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.bjknjk__c</field>
-        <readable>true</readable>
+        <editable>false</editable>
+        <field>Campaign.nkj__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.dss__c</field>
-        <readable>true</readable>
+        <editable>false</editable>
+        <field>Opportunity.njknk__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Campaign-Campaign Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <userLicense>High Volume Customer Portal</userLicense>
     <userPermissions>
