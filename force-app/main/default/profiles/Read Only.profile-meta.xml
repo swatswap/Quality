@@ -3,7 +3,7 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.test11111__c</field>
+        <field>Account.dss__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
