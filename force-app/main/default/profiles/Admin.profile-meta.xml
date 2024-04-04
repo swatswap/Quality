@@ -3,17 +3,12 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.nkj__c</field>
+        <field>Account.bjknjk__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Lead.kkkkk__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Opportunity.njknk__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
